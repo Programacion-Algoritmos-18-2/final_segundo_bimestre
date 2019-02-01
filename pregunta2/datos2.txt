@@ -1,5 +1,0 @@
-Placa;Matricula;Provincia;Color
-lba-092;40.2;Loja;Rojo
-gpo-111;60.2;Guayas;Azul
-pdq-099;50.2;Pichincha;Negro
-azx-901;90.2;Azuay;Verde
